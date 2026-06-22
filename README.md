@@ -63,7 +63,7 @@ Add screenshots of the workflow and conversation examples in this section.
 
 ### n8n Workflow
 
-![Workflow](./images/workflow.png)
+![Workflow](.//workflow.png)
 
 ## What I Learned
 
